@@ -1,4 +1,4 @@
-<img src="demon.gif" width="350px" alt="Demo">
+<img src="demo.gif" width="350px" alt="Demo">
 
 <strong>How to use</strong><br>
 ```html
