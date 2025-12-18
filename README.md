@@ -6,5 +6,5 @@ this.snackbar.show("Data saved successfully at this point in time because it suc
 ```
 <strong>Remember to register the service</strong><br>
 ```html
-constructor(private snackbar: SnackbarService) {}```
+constructor(private snackbar: SnackbarService) {}
 ````
