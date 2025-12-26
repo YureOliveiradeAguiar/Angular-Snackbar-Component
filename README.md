@@ -8,3 +8,5 @@ this.snackbar.show("Data saved successfully at this point in time because it suc
 ```html
 constructor(private snackbar: SnackbarService) {}
 ````
+This snackbar system was cautiously made to not having overlaping timers in the destruction of each instance, so it bahaves like this:
+Once a new call is made, the latest instance is destroyed and its timer outputs nothing.
